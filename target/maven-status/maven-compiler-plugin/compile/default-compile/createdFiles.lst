@@ -1,0 +1,7 @@
+com/liftoff/register/RegistrationService.class
+com/liftoff/util/UserUtil.class
+com/liftoff/AppLauncher.class
+com/liftoff/user/UserController.class
+com/liftoff/user/User.class
+com/liftoff/register/RegisterController.class
+com/liftoff/login/LoginController.class
